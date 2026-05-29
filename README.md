@@ -22,3 +22,8 @@ Superstore Sales Dataset from Kaggle
 - Power BI Desktop
 - DAX
 - Power Query
+
+## Dashboard Preview
+[Executive Summary](page1.png)
+[Regional Analysis](page2.png)
+[Product & Customer](page3.png)
